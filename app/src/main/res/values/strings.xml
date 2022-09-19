@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MiniAndroidApp10-TransitionView01</string>
+    <string name="bt_next">画面１</string>
+    <string name="bt_previous">画面２</string>
 </resources>
